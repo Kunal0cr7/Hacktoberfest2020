@@ -1,0 +1,6 @@
+ cp_command.c -with command line input :
+ Simulation of the behavior of cp command in linux.It validates right usage; if less or more number of arguments are passed to the executable then the
+ program shows prompt a message to the user
+ 
+ rm_command.c  -with command line input: 
+ Basic simulation of rm command in linux ,dosen't accept any flags and all
